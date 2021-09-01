@@ -76,11 +76,11 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
+      --headings: #44a3e7;
       --links: #91A7FF;
-      --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #323945;
+      --highlight: #dd66ff;
+      --bg: #181c30;
+      --bg-secondary: #2d3040;
       --text: #adb5bd;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
